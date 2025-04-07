@@ -76219,7 +76219,7 @@ return new A.wX(new A.z0(s),A.rl(s,s,B.ab,s),!1,s)}}
 A.z0.prototype={
 ab(){return new A.QB()}}
 A.QB.prototype={
-N(a){var s,r,q=null,p=A.ani(q,q,q,!0,B.ab,q,1,q,q,q,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,A.bo("Pr\xfcfungskultur",q,q,q,q,q,q),q,q,q,1,q),o=t.w,n=A.ap(a,q,o).w.a.a>500?476:A.ap(a,q,o).w.a.a-24
+N(a){var s,r,q=null,p=A.ani(q,q,q,!0,B.ab,q,1,q,q,q,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,A.bo("Pr\xfcfungskultur (V.1)",q,q,q,q,q,q),q,q,q,1,q),o=t.w,n=A.ap(a,q,o).w.a.a>500?476:A.ap(a,q,o).w.a.a-24
 n=A.bG(B.bE,A.bo("Herzlich Willkommen zu meinem Fragebogen mit dem Thema Pr\xfcfungskultur.\nVielen Dank f\xfcr die Bearbeitung.\n\nDie Bearbeitugsdauer betr\xe4gt ca. 10 min. ",q,q,q,B.aw,B.bz,q),B.r,q,new A.bT(q,q,new A.bS(new A.aE(B.D,1,B.t,-1),B.l,B.l,B.l),q,q,q,B.S),q,new A.a9(0,0,0,0),new A.a9(0,12,0,12),n)
 s=A.bc(q,12,q)
 o=A.ap(a,q,o).w.a.a>500?476:A.ap(a,q,o).w.a.a-24
