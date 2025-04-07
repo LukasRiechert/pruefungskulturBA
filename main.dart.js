@@ -75627,7 +75627,7 @@ Yp(){this.a7(new A.ado(this))
 this.a.n4(9)},
 N(a){var s=this,r=null,q=t.w,p=A.ap(a,r,q).w,o=B.c.eY(A.ap(a,r,q).w.a.a,300,500)
 s.a.toString
-p=A.hF(A.Hn(11,new A.adr(s,1,(o-5)/6,p.a.a),!0,t.l7),B.K,B.ed,B.U)
+p=A.hF(A.Hn(11,new A.adr(s,1,(o-6)/7,p.a.a),!0,t.l7),B.K,B.ed,B.U)
 q=A.bc(r,6,r)
 return A.dR(A.b([p,q,A.bG(r,s.d==null?A.aqF():A.hF(A.b([A.fa(r,A.bG(r,A.bo("Angabe zur\xfcckziehen",r,r,r,B.bA.rb(10),r,r),B.r,r,new A.bT(B.ab,r,new A.bS(new A.aE(B.D,1,B.t,-1),B.l,new A.aE(B.D,1,B.t,-1),B.l),r,r,r,B.S),r,r,new A.a9(4,2,4,2),r),B.a_,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,s.gYo(),r,r,r,r,r,r)],t.p),B.K,B.fN,B.U),B.r,r,r,20,r,r,r)],t.p),B.K,B.T,B.U)}}
 A.ado.prototype={
