@@ -76224,7 +76224,7 @@ n=A.bG(B.bE,A.bo("Herzlich willkommen zu meinem Fragebogen mit dem Thema Pr\xfcf
 s=A.bb(q,12,q)
 o=A.ap(a,q,o).w.a.a>500?476:A.ap(a,q,o).w.a.a-24
 r=A.ano(B.Gb,1)
-return A.Jg(p,A.aC0(A.dR(A.b([new A.cq(B.bD,q,q,n,q),s,new A.mP("Start",new A.ag4(a),q),A.bG(q,A.bo("Alle im Folgenden erhobenen Daten sind anonym und werden nur f\xfcr die wissenschaftlichen Zwecke dieser Arbeit gespeichert.\nSie werden im Anschluss gel\xf6scht.\n\nEs werden keine personenbezogenen Daten erhoben oder gespeichert!",q,q,q,B.aw,B.bz,q),B.r,q,new A.bT(q,q,r,q,q,q,B.S),q,new A.a9(24,12,24,12),new A.a9(24,24,24,24),o),A.bo("Version 1.4",q,q,q,B.bA,q,q)],t.p),B.K,B.T,B.ee)))}}
+return A.Jg(p,A.aC0(A.dR(A.b([new A.cq(B.bD,q,q,n,q),s,new A.mP("Start",new A.ag4(a),q),A.bG(q,A.bo("Alle im Folgenden erhobenen Daten sind anonym und werden nur f\xfcr die wissenschaftlichen Zwecke dieser Arbeit gespeichert.\nSie werden im Anschluss gel\xf6scht.\n\nEs werden keine personenbezogenen Daten erhoben oder gespeichert!",q,q,q,B.aw,B.bz,q),B.r,q,new A.bT(q,q,r,q,q,q,B.S),q,new A.a9(24,12,24,12),new A.a9(24,24,24,24),o),A.bo("Version 2.1",q,q,q,B.bA,q,q)],t.p),B.K,B.T,B.ee)))}}
 A.ag4.prototype={
 $0(){var s=A.wZ(new A.ag3(),null,t.z)
 A.le(this.a,!1).ks(s)},
